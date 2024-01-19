@@ -47,7 +47,7 @@ Asciinema profile: [inf2022182](https://asciinema.org/~inf2022182)
    μαθήματος
 
 
-Παραδοτέο 2 (Εγκατάσταση των Arch Linux σε USB και εκτέλεση των εντολών neofetch και journalctl -b)
+# Παραδοτέο 2 (Εγκατάσταση των Arch Linux σε USB και εκτέλεση των εντολών neofetch και journalctl -b)
 
 Εγκατάσταση
 
