@@ -8,7 +8,7 @@
 
 Ομαδικός Οργανισμός: [Epikoinonites] (https://github.com/Epikoinonites)
 
-Προσωπικό προφίλ: [GitHub](https://github.com/ChristoSarantidis)
+Προσωπικό προφίλ GitHub: [ChristoSarantidis](https://github.com/ChristoSarantidis)
 
 Asciinema profile: [inf2022182](https://asciinema.org/~inf2022182)
 
