@@ -6,7 +6,7 @@
 
 Ακαδημαϊκό e-mail: inf2022182@ionio.gr
 
-Ομαδικός Οργανισμός: [Epikoinonites] (https://github.com/Epikoinonites)
+Ομαδικός Οργανισμός: [Epikoinonites](https://github.com/Epikoinonites)
 
 Προσωπικό προφίλ GitHub: [ChristoSarantidis](https://github.com/ChristoSarantidis)
 
